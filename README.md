@@ -76,21 +76,7 @@ Expected Output: Data filtered to show only the most recent 3 years.
 Step 3: Export Results
 After any analysis, click the "Download CSV" button located above the data table to save the results.
 
-📂 Project Structure
-sigmavalue-analytics/
-├── backend/
-│   ├── analytics/          # Core App Logic
-│   │   ├── views.py        # API Endpoints & Data Processing
-│   │   └── serializers.py  # File Upload Handling
-│   ├── core/               # Django Settings
-│   ├── requirements.txt    # Python Dependencies
-│   └── manage.py
-├── frontend/
-│   ├── src/
-│   │   ├── App.jsx         # Main Chat UI & Logic
-│   │   └── main.jsx        # React Entry Point
-│   └── package.json
-└── README.md               # Documentation
+<img width="812" height="461" alt="image" src="https://github.com/user-attachments/assets/483002ae-e2ae-4309-afb0-a1d69254be21" />
 
 
 🎥 Demo Video
