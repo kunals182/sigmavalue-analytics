@@ -1,23 +1,18 @@
 🏙️ Sigmavalue Analytics AI
-
 A professional Full Stack Real Estate Intelligence Chatbot built for the Sigmavalue Developer Assessment. This application transforms raw real estate datasets into actionable insights using natural language processing, dynamic data visualization, and fuzzy logic comparison engines.
-
 🚀 Key Features
 🧠 Intelligent Analysis
 Smart Data Ingestion: Upload any Excel (.xlsx) or CSV dataset via the chat interface.
 Fuzzy Location Matching: Finds locations even with partial or slightly misspelled names (e.g., "Ambegaon" finds "Ambegaon Budruk").
 Context-Aware Logic: Automatically detects "Price" vs "Demand" queries based on keywords like sales, sold, rates, growth.
-
 📊 Advanced Visualization
 Interactive Charts: Dynamic Line Charts powered by Recharts with custom tooltips and legends.
 Multi-Location Comparison: Compare trends for multiple areas simultaneously (e.g., "Compare Wakad and Aundh").
 Time-Travel Filtering: Handles specific time constraints like "Show prices for the last 3 years".
-
 💎 Premium UI/UX
 Glassmorphism Design: Modern, clean interface with gradients and shadows.
 User-Centric flow: Typing indicators, auto-scrolling, and empty state suggestions.
 Instant Export: One-click Download CSV for filtered data tables.
-
 🛠️ Tech Stack
 Component
 Technology Used
@@ -80,6 +75,7 @@ Complex Time Filter:"Show price growth for Akurdi over the last 3 years"
 Expected Output: Data filtered to show only the most recent 3 years.
 Step 3: Export Results
 After any analysis, click the "Download CSV" button located above the data table to save the results.
+
 📂 Project Structure
 sigmavalue-analytics/
 ├── backend/
