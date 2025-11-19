@@ -1,6 +1,6 @@
 🏙️ Sigmavalue Analytics AI
-A professional Full Stack Real Estate Intelligence Chatbot built for the Sigmavalue Developer Assessment. This application transforms raw real estate datasets into actionable insights using natural language processing, dynamic data visualization, and fuzzy logic comparison engines.
 
+A professional Full Stack Real Estate Intelligence Chatbot built for the Sigmavalue Developer Assessment. This application transforms raw real estate datasets into actionable insights using natural language processing, dynamic data visualization, and fuzzy logic comparison engines.
 
 🚀 Key Features
 🧠 Intelligent Analysis
